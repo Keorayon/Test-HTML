@@ -1,0 +1,33 @@
+{
+    "online": true,
+    "host": "model-punk.gl.joinmc.link",
+    "port": 25565,
+    "ip_address": "147.185.221.18",
+    "eula_blocked": false,
+    "retrieved_at": 1710954539311,
+    "expires_at": 1710954599311,
+    "srv_record": {
+        "host": "18.ip.gl.joinmc.link",
+        "port": 63377
+    },
+    "version": {
+        "name_raw": "Paper 1.20.4",
+        "name_clean": "Paper 1.20.4",
+        "name_html": "<span><span>Paper 1.20.4</span></span>",
+        "protocol": 765
+    },
+    "players": {
+        "online": 0,
+        "max": 7,
+        "list": []
+    },
+    "motd": {
+        "raw": "§d[Excited to play together w/ all my friends]\n§5♡ OP §6Zeleresia§5 | §9KeoImanuel",
+        "clean": "[Excited to play together w/ all my friends]\n♡ OP Zeleresia | KeoImanuel",
+        "html": "<span><span style=\"color: #ff55ff;\">[Excited to play together w/ all my friends]</span><span>\n</span><span style=\"color: #aa00aa;\">♡ OP </span><span style=\"color: #ffaa00;\">Zeleresia</span><span style=\"color: #aa00aa;\"> | </span><span style=\"color: #5555ff;\">KeoImanuel</span></span>"
+    },
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaX (...16.6 kB)",
+    "mods": [],
+    "software": null,
+    "plugins": []
+}
